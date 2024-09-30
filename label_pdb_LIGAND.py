@@ -56,3 +56,5 @@ def main():
         save_unmodified_pdb1(pdb_code)
         save_LIGAND_modified_pdb1(pdb_code, ligand_code)
 
+main()
+
