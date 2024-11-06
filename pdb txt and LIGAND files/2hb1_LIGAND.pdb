@@ -1,4 +1,5 @@
-HEADER    HYDROLASE                               13-JUN-06   XXXX              
+HEADER    HYDROLASE                               13-JUN-06   XXXX           
+REMARK LIGAND_NET_CHARGE -1 END_LIGAND_INFO   
 TITLE     CRYSTAL STRUCTURE OF PTP1B WITH MONOCYCLIC THIOPHENE INHIBITOR        
 KEYWDS    PROTEIN-INHIBITOR COMPLEX, HYDROLASE                                  
 EXPDTA    X-RAY DIFFRACTION                                                     
