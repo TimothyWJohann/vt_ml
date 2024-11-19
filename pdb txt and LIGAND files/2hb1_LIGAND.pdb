@@ -1,5 +1,4 @@
-HEADER    HYDROLASE                               13-JUN-06   XXXX           
-REMARK LIGAND_NET_CHARGE -1 END_LIGAND_INFO   
+HEADER    HYDROLASE                               13-JUN-06   XXXX             
 TITLE     CRYSTAL STRUCTURE OF PTP1B WITH MONOCYCLIC THIOPHENE INHIBITOR        
 KEYWDS    PROTEIN-INHIBITOR COMPLEX, HYDROLASE                                  
 EXPDTA    X-RAY DIFFRACTION                                                     
@@ -2581,7 +2580,7 @@ HETATM 2508  O   HOH A 867      66.184  15.759  22.088  1.00 28.05           O
 HETATM 2509  O   HOH A 868      29.462  -4.724   4.147  1.00 29.41           O  
 HETATM 2510  O   HOH A 869      30.892  -1.362  10.235  1.00 29.86           O  
 HETATM 2511  O   HOH A 870      56.175  22.369   2.886  1.00 36.53           O  
-LIGAND 2512  O   HOH A 871      37.240  -3.296  15.291  1.00 31.03           O  
+HETATM 2512  O   HOH A 871      37.240  -3.296  15.291  1.00 31.03           O  
 HETATM 2513  O   HOH A 872      35.795  -5.965   2.665  1.00 40.73           O  
 HETATM 2514  O   HOH A 873      42.561   7.221  26.022  1.00 32.16           O  
 HETATM 2515  O   HOH A 874      63.963  28.453  28.229  1.00 37.72           O  
@@ -2677,7 +2676,7 @@ HETATM 2604  O   HOH A 963      25.857  24.686   8.734  1.00 41.11           O
 HETATM 2605  O   HOH A 964      36.444   9.306  26.648  1.00 44.05           O  
 HETATM 2606  O   HOH A 965      34.299  16.285  29.185  1.00 39.76           O  
 HETATM 2607  O   HOH A 966      39.971   2.974  20.288  1.00 40.94           O  
-LIGAND 2608  O   HOH A 967      23.031  25.745   9.512  1.00 48.41           O  
+HETATM 2608  O   HOH A 967      23.031  25.745   9.512  1.00 48.41           O  
 HETATM 2609  O   HOH A 968      48.262   3.655  27.380  1.00 45.78           O  
 HETATM 2610  O   HOH A 969      69.460  25.365   6.031  1.00 46.79           O  
 HETATM 2611  O   HOH A 970      45.956  27.740   3.325  1.00 41.68           O  
