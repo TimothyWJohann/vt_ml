@@ -1,0 +1,286 @@
+cluster_id,pdb_code,pKd,dG,partition,partition_id,protein_name,subset_H,subset_S,subset_V,num_decoy_poses
+1,2xb8,7.59,-10.3224,"(-10.815, -9.466]",6,3-Dehydroquinate dehydratase,H1,S3,V2,69
+1,3n76,6.85,-9.316,"(-9.466, -8.116]",5,3-Dehydroquinate dehydratase,H1,S3,V2,61
+1,3n7a,3.7,-5.032000000000001,"(-5.418, -4.069]",2,3-Dehydroquinate dehydratase,H1,S3,V2,51
+1,3n86,5.64,-7.6704,"(-8.116, -6.767]",4,3-Dehydroquinate dehydratase,H1,S3,V2,56
+1,4ciw,4.82,-6.555200000000001,"(-6.767, -5.418]",3,3-Dehydroquinate dehydratase,H1,S3,V2,44
+2,1nc1,6.12,-8.3232,"(-9.466, -8.116]",5,5'-Methylthioadenosine/s-adenosylhomocysteine nucleosidase,H2,S3,V3,74
+2,1nc3,5.0,-6.800000000000001,"(-8.116, -6.767]",4,5'-Methylthioadenosine/s-adenosylhomocysteine nucleosidase,H2,S3,V3,55
+2,1y6r,10.11,-13.749600000000001,"(-14.862, -13.513]",9,5'-Methylthioadenosine/s-adenosylhomocysteine nucleosidase,H2,S3,V3,56
+2,4f2w,11.3,-15.368000000000002,"(-16.225, -14.862]",10,5'-Methylthioadenosine/s-adenosylhomocysteine nucleosidase,H2,S3,V3,75
+2,4f3c,11.82,-16.075200000000002,"(-16.225, -14.862]",10,5'-Methylthioadenosine/s-adenosylhomocysteine nucleosidase,H2,S3,V3,94
+3,3u8k,8.66,-11.777600000000001,"(-12.164, -10.815]",7,Acetylcholine-binding protein,H3,S3,V3,72
+3,3u8n,10.17,-13.8312,"(-14.862, -13.513]",9,Acetylcholine-binding protein,H3,S3,V3,61
+3,3zdg,7.1,-9.656,"(-10.815, -9.466]",6,Acetylcholine-binding protein,H3,S3,V3,55
+3,4qac,9.4,-12.784,"(-13.513, -12.164]",8,Acetylcholine-binding protein,H3,S3,V3,93
+3,3wtj,6.53,-8.8808,"(-9.466, -8.116]",5,Acetylcholine-binding protein,H3,S3,V3,60
+4,1e66,9.89,-13.450400000000002,"(-13.513, -12.164]",8,Acetylcholinesterase,H3,S2,V3,70
+4,1gpk,5.37,-7.3032,"(-8.116, -6.767]",4,Acetylcholinesterase,H3,S2,V3,64
+4,1gpn,6.48,-8.812800000000001,"(-9.466, -8.116]",5,Acetylcholinesterase,H3,S2,V3,56
+4,1h22,9.1,-12.376000000000001,"(-13.513, -12.164]",8,Acetylcholinesterase,H3,S2,V3,72
+4,1h23,8.35,-11.356,"(-12.164, -10.815]",7,Acetylcholinesterase,H3,S2,V3,69
+5,2wvt,6.12,-8.3232,"(-9.466, -8.116]",5,Alpha-L-fucosidase,H2,S1,V1,50
+5,2xii,7.2,-9.792000000000002,"(-10.815, -9.466]",6,Alpha-L-fucosidase,H2,S1,V1,87
+5,4j28,5.7,-7.752000000000001,"(-8.116, -6.767]",4,Alpha-L-fucosidase,H2,S1,V1,70
+5,4jfs,5.27,-7.1672,"(-8.116, -6.767]",4,Alpha-L-fucosidase,H2,S1,V1,51
+5,4pcs,7.85,-10.676,"(-10.815, -9.466]",6,Alpha-L-fucosidase,H2,S1,V1,70
+6,1ps3,2.28,-3.1008,"(-4.069, -2.72]",1,Alpha-mannosidase 2,H1,S1,V1,53
+6,3d4z,4.89,-6.6504,"(-6.767, -5.418]",3,Alpha-mannosidase 2,H1,S1,V1,68
+6,3dx1,3.58,-4.8688,"(-5.418, -4.069]",2,Alpha-mannosidase 2,H1,S1,V1,74
+6,3dx2,6.82,-9.275200000000002,"(-9.466, -8.116]",5,Alpha-mannosidase 2,H1,S1,V1,57
+6,3ejr,8.57,-11.6552,"(-12.164, -10.815]",7,Alpha-mannosidase 2,H1,S1,V1,70
+7,1z95,7.12,-9.683200000000001,"(-10.815, -9.466]",6,Androgen receptor,H3,S3,V3,66
+7,3b5r,8.77,-11.927200000000001,"(-12.164, -10.815]",7,Androgen receptor,H3,S3,V3,64
+7,3b65,9.27,-12.6072,"(-13.513, -12.164]",8,Androgen receptor,H3,S3,V3,41
+7,3b68,8.4,-11.424000000000001,"(-12.164, -10.815]",7,Androgen receptor,H3,S3,V3,60
+7,3g0w,9.52,-12.9472,"(-13.513, -12.164]",8,Androgen receptor,H3,S3,V3,67
+8,3qqs,5.82,-7.915200000000001,"(-8.116, -6.767]",4,Anthranilate phosphoribosyltransferase,H1,S2,V1,63
+8,3r88,4.82,-6.555200000000001,"(-6.767, -5.418]",3,Anthranilate phosphoribosyltransferase,H1,S2,V1,89
+8,3twp,3.92,-5.3312,"(-5.418, -4.069]",2,Anthranilate phosphoribosyltransferase,H1,S2,V1,73
+8,4gkm,5.17,-7.0312,"(-8.116, -6.767]",4,Anthranilate phosphoribosyltransferase,H1,S2,V1,74
+8,4owm,2.96,-4.0256,"(-4.069, -2.72]",1,Anthranilate phosphoribosyltransferase,H1,S2,V1,86
+9,2fxs,6.06,-8.2416,"(-9.466, -8.116]",5,Atp-dependent molecular chaperone hsp82,H1,S2,V2,66
+9,2iwx,6.68,-9.0848,"(-9.466, -8.116]",5,Atp-dependent molecular chaperone hsp82,H1,S2,V2,78
+9,2vw5,8.52,-11.587200000000001,"(-12.164, -10.815]",7,Atp-dependent molecular chaperone hsp82,H1,S2,V2,60
+9,2wer,7.05,-9.588000000000001,"(-10.815, -9.466]",6,Atp-dependent molecular chaperone hsp82,H1,S2,V2,84
+9,2yge,5.06,-6.8816,"(-8.116, -6.767]",4,Atp-dependent molecular chaperone hsp82,H1,S2,V2,61
+10,2cbv,5.48,-7.452800000000001,"(-8.116, -6.767]",4,Beta-glucosidase a,H2,S2,V1,66
+10,2cet,8.02,-10.9072,"(-12.164, -10.815]",7,Beta-glucosidase a,H2,S2,V1,83
+10,2j78,6.42,-8.731200000000001,"(-9.466, -8.116]",5,Beta-glucosidase a,H2,S2,V1,54
+10,2j7h,7.19,-9.778400000000001,"(-10.815, -9.466]",6,Beta-glucosidase a,H2,S2,V1,51
+10,2wbg,4.45,-6.0520000000000005,"(-6.767, -5.418]",3,Beta-glucosidase a,H2,S2,V1,76
+11,2r9w,5.1,-6.936,"(-8.116, -6.767]",4,Beta-lactamase,H2,S1,V1,80
+11,3gr2,2.52,-3.4272000000000005,"(-4.069, -2.72]",1,Beta-lactamase,H2,S1,V1,80
+11,3gv9,2.12,-2.8832000000000004,"(-4.069, -2.72]",1,Beta-lactamase,H2,S1,V1,99
+11,4jxs,4.74,-6.446400000000001,"(-6.767, -5.418]",3,Beta-lactamase,H2,S1,V1,100
+11,4kz6,3.1,-4.216,"(-5.418, -4.069]",2,Beta-lactamase,H2,S1,V1,76
+12,3g2z,2.36,-3.2096,"(-4.069, -2.72]",1,Beta-lactamase CTX-M-9a,H1,S1,V1,60
+12,3g31,2.89,-3.9304000000000006,"(-4.069, -2.72]",1,Beta-lactamase CTX-M-9a,H1,S1,V1,67
+12,4de1,5.96,-8.1056,"(-8.116, -6.767]",4,Beta-lactamase CTX-M-9a,H1,S1,V1,100
+12,4de2,4.12,-5.6032,"(-6.767, -5.418]",3,Beta-lactamase CTX-M-9a,H1,S1,V1,97
+12,4de3,5.52,-7.5072,"(-8.116, -6.767]",4,Beta-lactamase CTX-M-9a,H1,S1,V1,100
+13,3nq9,4.03,-5.4808,"(-6.767, -5.418]",3,Beta-lactoglobulin,H3,S2,V1,86
+13,3ueu,5.24,-7.126400000000001,"(-8.116, -6.767]",4,Beta-lactoglobulin,H3,S2,V1,79
+13,3uev,5.89,-8.0104,"(-8.116, -6.767]",4,Beta-lactoglobulin,H3,S2,V1,67
+13,3uew,6.31,-8.5816,"(-9.466, -8.116]",5,Beta-lactoglobulin,H3,S2,V1,85
+13,3uex,6.92,-9.411200000000001,"(-9.466, -8.116]",5,Beta-lactoglobulin,H3,S2,V1,81
+14,2vkm,8.74,-11.886400000000002,"(-12.164, -10.815]",7,Beta-secretase 1,H2,S3,V3,97
+14,3rsx,4.41,-5.9976,"(-6.767, -5.418]",3,Beta-secretase 1,H2,S3,V3,75
+14,3udh,2.85,-3.8760000000000003,"(-4.069, -2.72]",1,Beta-secretase 1,H2,S3,V3,79
+14,4djv,6.72,-9.1392,"(-9.466, -8.116]",5,Beta-secretase 1,H2,S3,V3,81
+14,4gid,10.77,-14.6472,"(-14.862, -13.513]",9,Beta-secretase 1,H2,S3,V3,100
+15,1k1i,6.58,-8.9488,"(-9.466, -8.116]",5,Beta-trypsin,H3,S1,V1,79
+15,1o3f,7.96,-10.825600000000001,"(-12.164, -10.815]",7,Beta-trypsin,H3,S1,V1,71
+15,1uto,2.27,-3.0872,"(-4.069, -2.72]",1,Beta-trypsin,H3,S1,V1,60
+15,3gy4,5.1,-6.936,"(-8.116, -6.767]",4,Beta-trypsin,H3,S1,V1,45
+15,4abg,3.57,-4.8552,"(-5.418, -4.069]",2,Beta-trypsin,H3,S1,V1,61
+16,3p5o,7.3,-9.928,"(-10.815, -9.466]",6,Bromodomain-containing protein 4,H3,S1,V1,70
+16,3u5j,5.61,-7.629600000000001,"(-8.116, -6.767]",4,Bromodomain-containing protein 4,H3,S1,V1,71
+16,4lzs,4.8,-6.5280000000000005,"(-6.767, -5.418]",3,Bromodomain-containing protein 4,H3,S1,V1,62
+16,4ogj,6.79,-9.2344,"(-9.466, -8.116]",5,Bromodomain-containing protein 4,H3,S1,V1,92
+16,4wiv,6.26,-8.5136,"(-9.466, -8.116]",5,Bromodomain-containing protein 4,H3,S1,V1,82
+17,3ui7,9.0,-12.24,"(-13.513, -12.164]",8,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",H2,S2,V3,89
+17,3uuo,7.96,-10.825600000000001,"(-12.164, -10.815]",7,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",H2,S2,V3,82
+17,4llx,2.89,-3.9304000000000006,"(-4.069, -2.72]",1,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",H2,S2,V3,87
+17,5c28,5.66,-7.6976,"(-8.116, -6.767]",4,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",H2,S2,V3,96
+17,5c2h,11.09,-15.082400000000002,"(-16.225, -14.862]",10,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",H2,S2,V3,97
+18,1q8t,4.76,-6.4736,"(-6.767, -5.418]",3,cAMP-dependent protein kinase catalytic subunit alpha,H2,S2,V3,95
+18,1q8u,5.96,-8.1056,"(-8.116, -6.767]",4,cAMP-dependent protein kinase catalytic subunit alpha,H2,S2,V3,83
+18,1ydr,5.52,-7.5072,"(-8.116, -6.767]",4,cAMP-dependent protein kinase catalytic subunit alpha,H2,S2,V3,100
+18,1ydt,7.32,-9.955200000000001,"(-10.815, -9.466]",6,cAMP-dependent protein kinase catalytic subunit alpha,H2,S2,V3,90
+18,3ag9,8.05,-10.948000000000002,"(-12.164, -10.815]",7,cAMP-dependent protein kinase catalytic subunit alpha,H2,S2,V3,84
+19,2weg,6.5,-8.84,"(-9.466, -8.116]",5,Carbonic anhydrase 2,H3,S2,V1,57
+19,3dd0,9.0,-12.24,"(-13.513, -12.164]",8,Carbonic anhydrase 2,H3,S2,V1,71
+19,3kwa,4.08,-5.548800000000001,"(-6.767, -5.418]",3,Carbonic anhydrase 2,H3,S2,V1,51
+19,3ryj,7.8,-10.608,"(-10.815, -9.466]",6,Carbonic anhydrase 2,H3,S2,V1,52
+19,4jsz,2.3,-3.128,"(-4.069, -2.72]",1,Carbonic anhydrase 2,H3,S2,V1,67
+20,3nw9,9.0,-12.24,"(-13.513, -12.164]",8,Catechol o-methyltransferase,H1,S2,V3,100
+20,3oe4,7.47,-10.1592,"(-10.815, -9.466]",6,Catechol o-methyltransferase,H1,S2,V3,98
+20,3oe5,6.88,-9.3568,"(-9.466, -8.116]",5,Catechol o-methyltransferase,H1,S2,V3,100
+20,3ozs,5.33,-7.248800000000001,"(-8.116, -6.767]",4,Catechol o-methyltransferase,H1,S2,V3,100
+20,3ozt,4.13,-5.6168000000000005,"(-6.767, -5.418]",3,Catechol o-methyltransferase,H1,S2,V3,100
+21,1pxn,7.15,-9.724000000000002,"(-10.815, -9.466]",6,Cell division protein kinase 2,H1,S2,V2,91
+21,2fvd,8.52,-11.587200000000001,"(-12.164, -10.815]",7,Cell division protein kinase 2,H1,S2,V2,100
+21,2xnb,6.83,-9.2888,"(-9.466, -8.116]",5,Cell division protein kinase 2,H1,S2,V2,90
+21,3pxf,4.43,-6.0248,"(-6.767, -5.418]",3,Cell division protein kinase 2,H1,S2,V2,90
+21,4eor,6.3,-8.568,"(-9.466, -8.116]",5,Cell division protein kinase 2,H1,S2,V2,90
+22,4agn,3.97,-5.3992,"(-5.418, -4.069]",2,Cellular tumor antigen p53,H3,S1,V1,96
+22,4agp,4.69,-6.378400000000001,"(-6.767, -5.418]",3,Cellular tumor antigen p53,H3,S1,V1,96
+22,4agq,5.01,-6.8136,"(-8.116, -6.767]",4,Cellular tumor antigen p53,H3,S1,V1,94
+22,5a7b,3.57,-4.8552,"(-5.418, -4.069]",2,Cellular tumor antigen p53,H3,S1,V1,94
+22,5aba,2.98,-4.0528,"(-4.069, -2.72]",1,Cellular tumor antigen p53,H3,S1,V1,87
+23,3arp,7.15,-9.724000000000002,"(-10.815, -9.466]",6,Chitinase a,H3,S1,V1,90
+23,3arq,6.4,-8.704,"(-9.466, -8.116]",5,Chitinase a,H3,S1,V1,91
+23,3aru,3.22,-4.379200000000001,"(-5.418, -4.069]",2,Chitinase a,H3,S1,V1,85
+23,3arv,5.64,-7.6704,"(-8.116, -6.767]",4,Chitinase a,H3,S1,V1,94
+23,3ary,6.0,-8.16,"(-9.466, -8.116]",5,Chitinase a,H3,S1,V1,90
+24,1lpg,7.09,-9.6424,"(-10.815, -9.466]",6,Coagulation factor x heavy chain,H1,S1,V2,100
+24,1mq6,11.15,-15.164000000000001,"(-16.225, -14.862]",10,Coagulation factor x heavy chain,H1,S1,V2,94
+24,1z6e,9.72,-13.219200000000003,"(-13.513, -12.164]",8,Coagulation factor x heavy chain,H1,S1,V2,100
+24,2xbv,8.43,-11.4648,"(-12.164, -10.815]",7,Coagulation factor x heavy chain,H1,S1,V2,80
+24,2y5h,5.79,-7.8744000000000005,"(-8.116, -6.767]",4,Coagulation factor x heavy chain,H1,S1,V2,94
+25,4cr9,4.1,-5.576,"(-6.767, -5.418]",3,Coagulation factor xi,H3,S1,V2,91
+25,4cra,7.22,-9.8192,"(-10.815, -9.466]",6,Coagulation factor xi,H3,S1,V2,100
+25,4crc,8.72,-11.859200000000001,"(-12.164, -10.815]",7,Coagulation factor xi,H3,S1,V2,92
+25,4ty7,9.52,-12.9472,"(-13.513, -12.164]",8,Coagulation factor xi,H3,S1,V2,100
+25,4x6p,8.3,-11.288000000000002,"(-12.164, -10.815]",7,Coagulation factor xi,H3,S1,V2,100
+26,2zcq,8.82,-11.9952,"(-12.164, -10.815]",7,Dehydrosqualene synthase,H2,S2,V3,94
+26,2zcr,6.87,-9.343200000000001,"(-9.466, -8.116]",5,Dehydrosqualene synthase,H2,S2,V3,84
+26,2zy1,7.4,-10.064000000000002,"(-10.815, -9.466]",6,Dehydrosqualene synthase,H2,S2,V3,91
+26,3acw,4.76,-6.4736,"(-6.767, -5.418]",3,Dehydrosqualene synthase,H2,S2,V3,87
+26,4ea2,6.44,-8.758400000000002,"(-9.466, -8.116]",5,Dehydrosqualene synthase,H2,S2,V3,71
+27,2v00,3.66,-4.977600000000001,"(-5.418, -4.069]",2,Endothiapepsin,H2,S1,V3,84
+27,3prs,7.82,-10.635200000000001,"(-10.815, -9.466]",6,Endothiapepsin,H2,S1,V3,86
+27,3pww,7.32,-9.955200000000001,"(-10.815, -9.466]",6,Endothiapepsin,H2,S1,V3,91
+27,3uri,9.0,-12.24,"(-13.513, -12.164]",8,Endothiapepsin,H2,S1,V3,77
+27,3wz8,5.82,-7.915200000000001,"(-8.116, -6.767]",4,Endothiapepsin,H2,S1,V3,83
+28,1qkt,9.04,-12.2944,"(-13.513, -12.164]",8,Estrogen receptor,H3,S3,V3,61
+28,2p15,10.3,-14.008000000000003,"(-14.862, -13.513]",9,Estrogen receptor,H3,S3,V3,53
+28,2pog,9.54,-12.9744,"(-13.513, -12.164]",8,Estrogen receptor,H3,S3,V3,43
+28,2qe4,7.96,-10.825600000000001,"(-12.164, -10.815]",7,Estrogen receptor,H3,S3,V3,50
+28,4mgd,4.69,-6.378400000000001,"(-6.767, -5.418]",3,Estrogen receptor,H3,S3,V3,45
+29,1p1n,6.8,-9.248000000000001,"(-9.466, -8.116]",5,Glutamate receptor 2,H2,S3,V1,43
+29,1p1q,4.89,-6.6504,"(-6.767, -5.418]",3,Glutamate receptor 2,H2,S3,V1,50
+29,1syi,5.44,-7.398400000000001,"(-8.116, -6.767]",4,Glutamate receptor 2,H2,S3,V1,50
+29,2al5,8.4,-11.424000000000001,"(-12.164, -10.815]",7,Glutamate receptor 2,H2,S3,V1,52
+29,4u4s,2.92,-3.9712,"(-4.069, -2.72]",1,Glutamate receptor 2,H2,S3,V1,99
+30,1vso,4.72,-6.4192,"(-6.767, -5.418]",3,"Glutamate receptor, ionotropic kainate 1",H2,S3,V2,71
+30,3fv1,9.3,-12.648000000000001,"(-13.513, -12.164]",8,"Glutamate receptor, ionotropic kainate 1",H2,S3,V2,44
+30,3fv2,8.11,-11.0296,"(-12.164, -10.815]",7,"Glutamate receptor, ionotropic kainate 1",H2,S3,V2,50
+30,3gbb,6.9,-9.384,"(-9.466, -8.116]",5,"Glutamate receptor, ionotropic kainate 1",H2,S3,V2,51
+30,4dld,5.82,-7.915200000000001,"(-8.116, -6.767]",4,"Glutamate receptor, ionotropic kainate 1",H2,S3,V2,72
+31,3ebp,5.91,-8.037600000000001,"(-8.116, -6.767]",4,"Glycogen phosphorylase, muscle form",H1,S3,V3,71
+31,3g2n,4.09,-5.5624,"(-6.767, -5.418]",3,"Glycogen phosphorylase, muscle form",H1,S3,V3,63
+31,3l7b,2.4,-3.2640000000000002,"(-4.069, -2.72]",1,"Glycogen phosphorylase, muscle form",H1,S3,V3,77
+31,3syr,5.1,-6.936,"(-8.116, -6.767]",4,"Glycogen phosphorylase, muscle form",H1,S3,V3,64
+31,4eky,3.52,-4.7872,"(-5.418, -4.069]",2,"Glycogen phosphorylase, muscle form",H1,S3,V3,77
+32,1yc1,6.17,-8.391200000000001,"(-9.466, -8.116]",5,Heat shock protein hsp 90-alpha,H3,S3,V3,80
+32,2xdl,3.1,-4.216,"(-5.418, -4.069]",2,Heat shock protein hsp 90-alpha,H3,S3,V3,71
+32,2yki,9.46,-12.865600000000002,"(-13.513, -12.164]",8,Heat shock protein hsp 90-alpha,H3,S3,V3,85
+32,3b27,5.16,-7.017600000000001,"(-8.116, -6.767]",4,Heat shock protein hsp 90-alpha,H3,S3,V3,71
+32,3rlr,7.52,-10.2272,"(-10.815, -9.466]",6,Heat shock protein hsp 90-alpha,H3,S3,V3,71
+33,3ao4,2.07,-2.8152,"(-4.069, -2.72]",1,Integrase,H1,S2,V1,92
+33,3zso,5.12,-6.9632000000000005,"(-8.116, -6.767]",4,Integrase,H1,S2,V1,76
+33,3zsx,3.28,-4.4608,"(-5.418, -4.069]",2,Integrase,H1,S2,V1,90
+33,3zt2,2.84,-3.8624,"(-4.069, -2.72]",1,Integrase,H1,S2,V1,63
+33,4cig,3.67,-4.9912,"(-5.418, -4.069]",2,Integrase,H1,S2,V1,76
+34,3ehy,5.85,-7.956,"(-8.116, -6.767]",4,Macrophage metalloelastase,H2,S1,V3,80
+34,3lka,2.82,-3.8352,"(-4.069, -2.72]",1,Macrophage metalloelastase,H2,S1,V3,79
+34,3nx7,8.1,-11.016,"(-12.164, -10.815]",7,Macrophage metalloelastase,H2,S1,V3,72
+34,3tsk,7.17,-9.7512,"(-10.815, -9.466]",6,Macrophage metalloelastase,H2,S1,V3,80
+34,4gr0,9.55,-12.988000000000001,"(-13.513, -12.164]",8,Macrophage metalloelastase,H2,S1,V3,100
+35,2zb1,6.32,-8.5952,"(-9.466, -8.116]",5,Mitogen-activated protein kinase 14,H3,S2,V3,73
+35,3e92,8.0,-10.88,"(-12.164, -10.815]",7,Mitogen-activated protein kinase 14,H3,S2,V3,90
+35,3e93,8.85,-12.036,"(-12.164, -10.815]",7,Mitogen-activated protein kinase 14,H3,S2,V3,96
+35,4dli,5.62,-7.643200000000001,"(-8.116, -6.767]",4,Mitogen-activated protein kinase 14,H3,S2,V3,69
+35,4f9w,6.94,-9.438400000000001,"(-9.466, -8.116]",5,Mitogen-activated protein kinase 14,H3,S2,V3,75
+36,2vvn,7.3,-9.928,"(-10.815, -9.466]",6,O-glcnacase BT_4395,H2,S3,V1,56
+36,2w4x,4.85,-6.596,"(-6.767, -5.418]",3,O-glcnacase BT_4395,H2,S3,V1,72
+36,2w66,4.05,-5.508,"(-6.767, -5.418]",3,O-glcnacase BT_4395,H2,S3,V1,61
+36,2wca,5.6,-7.616,"(-8.116, -6.767]",4,O-glcnacase BT_4395,H2,S3,V1,80
+36,2xj7,6.66,-9.0576,"(-9.466, -8.116]",5,O-glcnacase BT_4395,H2,S3,V1,45
+37,3coy,6.02,-8.1872,"(-9.466, -8.116]",5,Pantothenate synthetase,H3,S3,V3,93
+37,3coz,5.57,-7.575200000000001,"(-8.116, -6.767]",4,Pantothenate synthetase,H3,S3,V3,99
+37,3ivg,4.3,-5.848,"(-6.767, -5.418]",3,Pantothenate synthetase,H3,S3,V3,85
+37,4ddh,3.32,-4.5152,"(-5.418, -4.069]",2,Pantothenate synthetase,H3,S3,V3,77
+37,4ddk,2.29,-3.1144000000000003,"(-4.069, -2.72]",1,Pantothenate synthetase,H3,S3,V3,99
+38,2p4y,9.0,-12.24,"(-13.513, -12.164]",8,Peroxisome proliferator-activated receptor gamma,H3,S2,V3,87
+38,2yfe,6.63,-9.0168,"(-9.466, -8.116]",5,Peroxisome proliferator-activated receptor gamma,H3,S2,V3,90
+38,3b1m,8.48,-11.532800000000002,"(-12.164, -10.815]",7,Peroxisome proliferator-activated receptor gamma,H3,S2,V3,100
+38,3fur,8.0,-10.88,"(-12.164, -10.815]",7,Peroxisome proliferator-activated receptor gamma,H3,S2,V3,100
+38,3u9q,4.38,-5.9568,"(-6.767, -5.418]",3,Peroxisome proliferator-activated receptor gamma,H3,S2,V3,70
+39,1a30,4.3,-5.848,"(-6.767, -5.418]",3,HIV-1 protease,H2,S3,V3,74
+39,1eby,9.7,-13.192,"(-13.513, -12.164]",8,HIV-1 protease,H2,S3,V3,100
+39,2qnq,6.11,-8.309600000000001,"(-9.466, -8.116]",5,HIV-1 Protease,H2,S3,V3,82
+39,3o9i,11.82,-16.075200000000002,"(-16.225, -14.862]",10,HIV-1 Protease,H2,S3,V3,100
+39,1g2k,7.96,-10.825600000000001,"(-12.164, -10.815]",7,HIV-1 Protease,H2,S3,V3,94
+40,1r5y,6.46,-8.7856,"(-9.466, -8.116]",5,Queuine tRNA-ribosyltransferase,H2,S2,V2,93
+40,1s38,5.15,-7.004000000000001,"(-8.116, -6.767]",4,Queuine tRNA-ribosyltransferase,H2,S2,V2,100
+40,3gc5,7.26,-9.8736,"(-10.815, -9.466]",6,Queuine tRNA-ribosyltransferase,H2,S2,V2,85
+40,3ge7,8.7,-11.832,"(-12.164, -10.815]",7,Queuine tRNA-ribosyltransferase,H2,S2,V2,73
+40,3rr4,4.55,-6.188000000000001,"(-6.767, -5.418]",3,Queuine tRNA-ribosyltransferase,H2,S2,V2,97
+41,1o0h,5.92,-8.0512,"(-8.116, -6.767]",4,"Ribonuclease, pancreatic",H1,S1,V1,100
+41,1u1b,7.8,-10.608,"(-10.815, -9.466]",6,"Ribonuclease, pancreatic",H1,S1,V1,82
+41,1w4o,5.22,-7.0992,"(-8.116, -6.767]",4,"Ribonuclease, pancreatic",H1,S1,V1,83
+41,3d6q,3.76,-5.1136,"(-5.418, -4.069]",2,"Ribonuclease, pancreatic",H1,S1,V1,75
+41,3dxg,2.4,-3.2640000000000002,"(-4.069, -2.72]",1,"Ribonuclease, pancreatic",H1,S1,V1,71
+42,3cj4,6.51,-8.8536,"(-9.466, -8.116]",5,RNA-directed RNA polymerase,H2,S1,V2,84
+42,3gnw,9.1,-12.376000000000001,"(-13.513, -12.164]",8,RNA-directed RNA polymerase,H2,S1,V2,100
+42,4eo8,8.15,-11.084000000000001,"(-12.164, -10.815]",7,RNA-directed RNA polymerase,H2,S1,V2,80
+42,4ih5,4.11,-5.589600000000001,"(-6.767, -5.418]",3,RNA-directed RNA polymerase,H2,S1,V2,72
+42,4ih7,5.24,-7.126400000000001,"(-8.116, -6.767]",4,RNA-directed RNA polymerase,H2,S1,V2,77
+43,2wtv,8.74,-11.886400000000002,"(-12.164, -10.815]",7,Serine/threonine-protein kinase 6,H2,S2,V2,100
+43,3e5a,8.23,-11.192800000000002,"(-12.164, -10.815]",7,Serine/threonine-protein kinase 6,H2,S2,V2,88
+43,3myg,10.7,-14.552,"(-14.862, -13.513]",9,Serine/threonine-protein kinase 6,H2,S2,V2,100
+43,3uo4,6.52,-8.8672,"(-9.466, -8.116]",5,Serine/threonine-protein kinase 6,H2,S2,V2,85
+43,3up2,7.4,-10.064000000000002,"(-10.815, -9.466]",6,Serine/threonine-protein kinase 6,H2,S2,V2,81
+44,1nvq,8.25,-11.22,"(-12.164, -10.815]",7,Serine/threonine-protein kinase Chk1,H1,S2,V2,75
+44,2br1,5.14,-6.9904,"(-8.116, -6.767]",4,Serine/threonine-protein kinase Chk1,H1,S2,V2,72
+44,2brb,4.86,-6.609600000000001,"(-6.767, -5.418]",3,Serine/threonine-protein kinase Chk1,H1,S2,V2,68
+44,3jvr,5.72,-7.7792,"(-8.116, -6.767]",4,Serine/threonine-protein kinase Chk1,H1,S2,V2,95
+44,3jvs,6.54,-8.894400000000001,"(-9.466, -8.116]",5,Serine/threonine-protein kinase Chk1,H1,S2,V2,89
+45,2c3i,7.6,-10.336,"(-10.815, -9.466]",6,Serine/threonine-protein kinase pim-1,H1,S2,V2,65
+45,3bgz,6.26,-8.5136,"(-9.466, -8.116]",5,Serine/threonine-protein kinase pim-1,H1,S2,V2,65
+45,3jya,6.89,-9.3704,"(-9.466, -8.116]",5,Serine/threonine-protein kinase pim-1,H1,S2,V2,85
+45,4k18,8.96,-12.185600000000003,"(-13.513, -12.164]",8,Serine/threonine-protein kinase pim-1,H1,S2,V2,80
+45,5dwr,11.22,-15.259200000000002,"(-16.225, -14.862]",10,Serine/threonine-protein kinase pim-1,H1,S2,V2,84
+46,2wn9,8.52,-11.587200000000001,"(-12.164, -10.815]",7,Soluble acetylcholine receptor,H3,S1,V2,64
+46,2wnc,6.32,-8.5952,"(-9.466, -8.116]",5,Soluble acetylcholine receptor,H3,S1,V2,93
+46,2x00,11.33,-15.408800000000001,"(-16.225, -14.862]",10,Soluble acetylcholine receptor,H3,S1,V2,76
+46,2xys,7.42,-10.0912,"(-10.815, -9.466]",6,Soluble acetylcholine receptor,H3,S1,V2,64
+46,2ymd,3.16,-4.2976,"(-5.418, -4.069]",2,Soluble acetylcholine receptor,H3,S1,V2,52
+47,3kr8,8.1,-11.016,"(-12.164, -10.815]",7,Tankyrase-2,H2,S3,V2,81
+47,4j21,7.41,-10.0776,"(-10.815, -9.466]",6,Tankyrase-2,H2,S3,V2,92
+47,4j3l,7.8,-10.608,"(-10.815, -9.466]",6,Tankyrase-2,H2,S3,V2,62
+47,4kzq,6.1,-8.296,"(-9.466, -8.116]",5,Tankyrase-2,H2,S3,V2,96
+47,4kzu,6.5,-8.84,"(-9.466, -8.116]",5,Tankyrase-2,H2,S3,V2,100
+48,1qf1,7.32,-9.955200000000001,"(-10.815, -9.466]",6,Thermolysin,H2,S1,V2,100
+48,1z9g,5.64,-7.6704,"(-8.116, -6.767]",4,Thermolysin,H2,S1,V2,90
+48,3fcq,2.77,-3.7672000000000003,"(-4.069, -2.72]",1,Thermolysin,H2,S1,V2,75
+48,4tmn,10.17,-13.8312,"(-14.862, -13.513]",9,Thermolysin,H2,S1,V2,100
+48,5tmn,8.04,-10.9344,"(-12.164, -10.815]",7,Thermolysin,H2,S1,V2,91
+49,1bcu,3.28,-4.4608,"(-5.418, -4.069]",2,Thrombin light chain,H1,S1,V2,100
+49,1oyt,7.24,-9.846400000000001,"(-10.815, -9.466]",6,Thrombin light chain,H1,S1,V2,78
+49,2zda,8.4,-11.424000000000001,"(-12.164, -10.815]",7,Thrombin light chain,H1,S1,V2,85
+49,3bv9,5.36,-7.289600000000001,"(-8.116, -6.767]",4,Thrombin light chain,H1,S1,V2,94
+49,3utu,10.92,-14.8512,"(-14.862, -13.513]",9,Thrombin light chain,H1,S1,V2,96
+50,4bkt,3.62,-4.9232000000000005,"(-5.418, -4.069]",2,Transcription elongation factor b polypeptide 2,H3,S1,V1,85
+50,4w9c,4.65,-6.324000000000001,"(-6.767, -5.418]",3,Transcription elongation factor b polypeptide 2,H3,S1,V1,96
+50,4w9h,6.73,-9.152800000000001,"(-9.466, -8.116]",5,Transcription elongation factor b polypeptide 2,H3,S1,V1,100
+50,4w9i,5.96,-8.1056,"(-8.116, -6.767]",4,Transcription elongation factor b polypeptide 2,H3,S1,V1,99
+50,4w9l,5.02,-6.8271999999999995,"(-8.116, -6.767]",4,Transcription elongation factor b polypeptide 2,H3,S1,V1,100
+51,3f3a,4.19,-5.698400000000001,"(-6.767, -5.418]",3,Transporter,H3,S3,V2,65
+51,3f3c,6.02,-8.1872,"(-9.466, -8.116]",5,Transporter,H3,S3,V2,56
+51,3f3d,7.16,-9.7376,"(-10.815, -9.466]",6,Transporter,H3,S3,V2,50
+51,3f3e,7.7,-10.472000000000001,"(-10.815, -9.466]",6,Transporter,H3,S3,V2,46
+51,4mme,6.5,-8.84,"(-9.466, -8.116]",5,Transporter,H3,S3,V2,74
+52,2v7a,8.3,-11.288000000000002,"(-12.164, -10.815]",7,Tyrosine-protein kinase ABL1,H1,S2,V2,99
+52,3k5v,6.3,-8.568,"(-9.466, -8.116]",5,Tyrosine-protein kinase ABL1,H1,S2,V2,88
+52,3mss,4.66,-6.337600000000001,"(-6.767, -5.418]",3,Tyrosine-protein kinase ABL1,H1,S2,V2,83
+52,3pyy,6.86,-9.329600000000001,"(-9.466, -8.116]",5,Tyrosine-protein kinase ABL1,H1,S2,V2,88
+52,4twp,10.0,-13.600000000000001,"(-14.862, -13.513]",9,Tyrosine-protein kinase ABL1,H1,S2,V2,92
+53,3qgy,7.8,-10.608,"(-10.815, -9.466]",6,Tyrosine-protein kinase itk/tsk,H3,S3,V3,78
+53,4m0y,6.46,-8.7856,"(-9.466, -8.116]",5,Tyrosine-protein kinase itk/tsk,H3,S3,V3,80
+53,4m0z,5.19,-7.058400000000001,"(-8.116, -6.767]",4,Tyrosine-protein kinase itk/tsk,H3,S3,V3,70
+53,4qd6,8.64,-11.7504,"(-12.164, -10.815]",7,Tyrosine-protein kinase itk/tsk,H3,S3,V3,93
+53,4rfm,10.05,-13.668000000000003,"(-14.862, -13.513]",9,Tyrosine-protein kinase itk/tsk,H3,S3,V3,95
+54,4e5w,7.66,-10.4176,"(-10.815, -9.466]",6,Tyrosine-protein kinase JAK1,H1,S2,V2,100
+54,4ivb,8.72,-11.859200000000001,"(-12.164, -10.815]",7,Tyrosine-protein kinase JAK1,H1,S2,V2,76
+54,4ivc,10.0,-13.600000000000001,"(-14.862, -13.513]",9,Tyrosine-protein kinase JAK1,H1,S2,V2,71
+54,4ivd,9.52,-12.9472,"(-13.513, -12.164]",8,Tyrosine-protein kinase JAK1,H1,S2,V2,72
+54,4k77,6.63,-9.0168,"(-9.466, -8.116]",5,Tyrosine-protein kinase JAK1,H1,S2,V2,82
+55,4e6q,8.36,-11.3696,"(-12.164, -10.815]",7,Tyrosine-protein kinase JAK2,H1,S3,V2,81
+55,4f09,6.7,-9.112,"(-9.466, -8.116]",5,Tyrosine-protein kinase JAK2,H1,S3,V2,87
+55,4gfm,7.22,-9.8192,"(-10.815, -9.466]",6,Tyrosine-protein kinase JAK2,H1,S3,V2,83
+55,4hge,7.92,-10.7712,"(-10.815, -9.466]",6,Tyrosine-protein kinase JAK2,H1,S3,V2,70
+55,4jia,9.22,-12.539200000000001,"(-13.513, -12.164]",8,Tyrosine-protein kinase JAK2,H1,S3,V2,100
+56,1bzc,4.92,-6.6912,"(-6.767, -5.418]",3,Tyrosine-protein phosphatase non-receptor type 1,H1,S2,V1,79
+56,2hb1,3.8,-5.168,"(-5.418, -4.069]",2,Tyrosine-protein phosphatase non-receptor type 1,H1,S2,V1,41
+56,2qbp,8.4,-11.424000000000001,"(-12.164, -10.815]",7,Tyrosine-protein phosphatase non-receptor type 1,H1,S2,V1,96
+56,2qbq,7.44,-10.118400000000001,"(-10.815, -9.466]",6,Tyrosine-protein phosphatase non-receptor type 1,H1,S2,V1,100
+56,2qbr,6.33,-8.6088,"(-9.466, -8.116]",5,Tyrosine-protein phosphatase non-receptor type 1,H1,S2,V1,90
+57,1c5z,4.01,-5.4536,"(-6.767, -5.418]",3,Urokinase-type plasminogen activator,H1,S1,V1,80
+57,1o5b,5.77,-7.8472,"(-8.116, -6.767]",4,Urokinase-type plasminogen activator,H1,S1,V1,90
+57,1owh,7.4,-10.064000000000002,"(-10.815, -9.466]",6,Urokinase-type plasminogen activator,H1,S1,V1,91
+57,1sqa,9.21,-12.525600000000003,"(-13.513, -12.164]",8,Urokinase-type plasminogen activator,H1,S1,V1,92
+57,3kgp,2.57,-3.4952,"(-4.069, -2.72]",1,Urokinase-type plasminogen activator,H1,S1,V1,65
